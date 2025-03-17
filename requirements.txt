@@ -1,5 +1,6 @@
-pip install streamlit==1.2.0
-pip install joblib==1.1.0
-pip install numpy==1.24.3
-pip install pandas==2.1.4
-pip install scikit-learn
+streamlit==1.2.0
+joblib==1.1.0
+numpy==1.24.3
+pandas==2.1.4
+scikit-learn
+
